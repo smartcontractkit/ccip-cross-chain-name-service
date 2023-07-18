@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.enc
+coverage
+coverage.json
+deployments
+
+# Hardhat files
+cache
+artifacts
+
